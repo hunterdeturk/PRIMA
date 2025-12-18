@@ -33,8 +33,8 @@ Given a folder of PDFs, the script will:
 ### 1) Clone the repo
 
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_FOLDER>
+git clone https://github.com/hunterdeturk/PRIMA.git
+cd PRIMA
 ```
 ### 2) Create + activate a virtual environment
 ```bash
