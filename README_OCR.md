@@ -79,8 +79,8 @@ For each PDF, the pipeline will:
 
 ### 1) Clone the repository
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_FOLDER>
+git clone https://github.com/hunterdeturk/PRIMA.git
+cd PRIMA
 ```
 ### 2) Create and activate a virtual environment
 ```bash
